@@ -1,11 +1,11 @@
-# ✊✋✌️ Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 A fun and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, and **Vanilla JavaScript**. It features score tracking with local storage, an autoplay mode, and a clean, responsive design.
 
 
 ---
 
-## 🎮 Features
+## Features
 
 - Play against the computer: Rock, Paper, or Scissors
 - Autoplay mode: Plays automatically every second
@@ -16,16 +16,17 @@ A fun and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 
 ---
 
-## 📂 Project Structure
-rock-paper-scissors/
-├── index.html
-├── styles/
-│ └── rock-paper-scissor.css
-├── scripts/
-│ └── rock-paper-scissor.js
+## Project Structure
+<prev>rock-paper-scissors/
 ├── images/
-│ ├── rock-emoji.png
-│ ├── paper-emoji.png
-│ └── scissor-emoji.png
-└── README.md
+│   ├── rock-emoji.png
+│   ├── paper-emoji.png
+│   └── scissor-emoji.png
+├── scripts/
+│   └── rock-paper-scissor.js
+├── styles/
+│   └── rock-paper-scissor.css
+├── rock-paper-scissors.html
+└── README.md <prev>
+
 
